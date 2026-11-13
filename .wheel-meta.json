@@ -1,0 +1,22 @@
+{
+  "wheel_id": 892,
+  "structure": "umbrella",
+  "slug": "retainingwallcanberra-114",
+  "project": "retaining-walls-canberra-suburb-guide-269a61da1fbb9ae29501e2500",
+  "parent_t1_ref": "retainingwallcanberra-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallcanberra.com.au",
+  "primary_kw": "retaining walls canberra suburb guide",
+  "intended_url": "http://retaining-walls-canberra-suburb-guide-269a61da1fbb9ae29501e2500.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "01b5eed83a68cbbb",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-walls-canberra-signs-you-need-169833c3f8665d2136dca67/",
+      "anchor": "retaining walls canberra signs you need",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
